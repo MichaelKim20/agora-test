@@ -1,0 +1,12 @@
+{
+    "name": "agora-test",
+    "description": "",
+    "license": "MIT",
+    "authors": [],
+    "copyright": "Copyright © 2019, BOS Platform Foundation Korea",
+    "targetType": "executable",
+    "targetPath": "build",
+    "dependencies": {
+        "vibe-d":           { "path": "submodules/vibe.d/", "version": "*" }
+    }
+}

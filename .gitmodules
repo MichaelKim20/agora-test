@@ -1,0 +1,3 @@
+[submodule "submodules/vibe.d"]
+	path = submodules/vibe.d
+	url = https://github.com/bpfkorea/vibe.d.git
